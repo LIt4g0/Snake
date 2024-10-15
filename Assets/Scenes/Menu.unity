@@ -414,30 +414,6 @@ PrefabInstance:
       propertyPath: m_Camera
       value: 
       objectReference: {fileID: 643270274}
-    - target: {fileID: 6042311107175182626, guid: 3b628323ce48d8949ad39bc20196e213, type: 3}
-      propertyPath: m_margin.w
-      value: 1.6955872
-      objectReference: {fileID: 0}
-    - target: {fileID: 6042311107175182626, guid: 3b628323ce48d8949ad39bc20196e213, type: 3}
-      propertyPath: m_overflowMode
-      value: 3
-      objectReference: {fileID: 0}
-    - target: {fileID: 6042311107175182626, guid: 3b628323ce48d8949ad39bc20196e213, type: 3}
-      propertyPath: m_enableWordWrapping
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 7820971745069837549, guid: 3b628323ce48d8949ad39bc20196e213, type: 3}
-      propertyPath: m_SizeDelta.y
-      value: 498.88
-      objectReference: {fileID: 0}
-    - target: {fileID: 7820971745069837549, guid: 3b628323ce48d8949ad39bc20196e213, type: 3}
-      propertyPath: m_LocalPosition.z
-      value: -0
-      objectReference: {fileID: 0}
-    - target: {fileID: 7820971745069837549, guid: 3b628323ce48d8949ad39bc20196e213, type: 3}
-      propertyPath: m_AnchoredPosition.y
-      value: -305.8
-      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
